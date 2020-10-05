@@ -24,7 +24,7 @@
         </div>
 
         <div class="login">
-            <form action="">
+            <form action="">  <!--  method post -->
                 <label for="username">Username:</label><br>
                 <input type="text" id="username" name="username"><br><br>
                 <label for="password">Password:</label><br>
