@@ -10,13 +10,12 @@ body
 }
 
 
-h1{
+
+#title{
 	color: white;	
 	text-align: center;
 	padding: 25px;
 }
-
-
 
 .heading{
 	color: black;
@@ -59,14 +58,55 @@ input[type=submit] {
 	font-size: 50px;
 }
 
+.fa-user-circle {
+	font-size: 150px;
+}
+
+
 .profileMain{
 	background-color: #e7eaee;
-	padding: 350px;
+	padding: 20px 100px;
+	margin: 2%;
+	text-align: center;
+
+}
+
+.searchMain{
+	text-align: left;
+	padding: 50px;
+}
+
+#announcementField{
+	size: 100px;
+}
+
+
+#searchLink{
+	color:aquamarine;
+	text-align: center;
+	padding: 10px;
+}
+
+
+
+.searchBar{
+	text-align: center;
+	float: center;
+	padding: 15px;
+	margin: 15px;
+}
+
+.profileSearch{
+	background-color: #e7eaee;
+	padding: 25px;
 	margin: 2% 5%;
 	box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
 }
-.searchBar{
-	float: right;
+
+
+
+.personalProfile{
+	text-align: left;
 
 }
 
