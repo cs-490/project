@@ -17,6 +17,12 @@
 
     <h1 id="title">CS 490 Project</h1>
 
+    <div class="navbar">
+        <a href="profile.php" class="button" id="mainButtons">Profile</a>
+        <a href="announcements.php" class="button" id="mainButtons">Annoucements</a>
+    </div>
+
+
     <div class="searchMain">
 
         <div class="searchBar">
@@ -25,8 +31,6 @@
                 <button type="submit"><i class="fa fa-search"></i></button>
             </form>
         </div>
-
-        <a href="profile.php" id="searchLink">Back to profile</a>
 
         <div class="profileSearch">
             <h4>Name:</h4>
