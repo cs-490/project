@@ -18,8 +18,7 @@
     <h1 id="title">CS 490 Project</h1>
 
     <div class="navbar">
-        <a href="profile.php" class="button" id="mainButtons">Profile</a>
-        <a href="announcements.php" class="button" id="mainButtons">Annoucements</a>
+        <a href="profile.php" class="button" id="mainButtons">My Profile</a>
     </div>
 
 
@@ -27,7 +26,7 @@
 
         <div class="searchBar">
             <form action="">
-                <input type="text" placeholder="Search" name="search">
+                <input type="text" placeholder="Search" name="search" size="75">
                 <button type="submit"><i class="fa fa-search"></i></button>
             </form>
         </div>
