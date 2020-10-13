@@ -1,0 +1,21 @@
+1. Connect to the Database
+    good  
+
+2. Fix Confirm Password
+    good
+
+3. Make sure we cannot reregister same Username
+    somewhat done
+
+4. Usernames with numbers do not login
+    good
+
+5. get rid of home.php and redirect to login.php
+
+6. throw up errors on pages
+
+
+7. summit to submit
+
+
+8. Announcement check when registering
